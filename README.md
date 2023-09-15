@@ -1,2 +1,2 @@
 # https5110
-Bernie's class
+Introduction-to-Web-Development
