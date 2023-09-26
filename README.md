@@ -1,2 +1,4 @@
 # https5110
-Introduction to Web Development.
+Various files for the "Intro to Web Development course."
+
+[Blackboard link](https://learn.humber.ca/ultra/courses/_233702_1/outline)
